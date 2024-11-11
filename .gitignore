@@ -44,3 +44,5 @@ app.*.map.json
 
 # Ignore google-services.json inside android/app folder
 /android/app/google-services.json
+android/app/google-services.json
+
